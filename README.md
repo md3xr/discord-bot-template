@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed:
 
 3. Initialize the project by running:
    ```
-   npm init -y
+   npm init or npm init -y
    ```
 
 4. Install the required dependencies:
